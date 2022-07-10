@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d555d946-d4dc-4863-a728-ba1a1f399141": {
+      "ProjectGuid": "d555d946-d4dc-4863-a728-ba1a1f399141",
+      "DisplayName": "AuditBenchmarkApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

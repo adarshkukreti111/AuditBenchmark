@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6OMOGaOKkGSM5pwtAOV+Czypei3c/UWLGEvBN5rOgl8=",
+  "Source": "AuditBenchmarkApi",
+  "BasePath": "_content/AuditBenchmarkApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
